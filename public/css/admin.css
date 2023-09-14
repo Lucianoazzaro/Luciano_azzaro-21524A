@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #F0B27A;
+    display: grid;
+    grid-template-rows: auto auto 1fr auto;
+}
+
+.nueva-publicacion {
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+    margin: 35px;
+    padding: 5px;
+    background-color: aqua;
+    border-radius: 25px;
+}

@@ -1,0 +1,24 @@
+html{
+    height: 100%;
+}
+body {
+    background-color: #F0B27A;
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.lista-publicaciones {
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+    margin: 35px;
+    padding: 5px;
+    background-color: aqua;
+    border-radius: 25px;
+}
+
+footer {
+    margin-top: auto;
+}
